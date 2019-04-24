@@ -1,0 +1,17 @@
+{
+  "name": "@erictaylor/hyper-theme",
+  "version": "1.0.0",
+  "description": "A clean theme for Hyper.",
+  "main": "index.js",
+  "repository": "@erictaylor/hyper-theme",
+  "author": "Eric Taylor <eric@daxos.com>",
+  "license": "MIT",
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "theme"
+  ],
+  "dependencies": {
+    "ibm-design-colors": "^2.0.4"
+  }
+}
