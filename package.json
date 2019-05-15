@@ -1,6 +1,6 @@
 {
   "name": "@erictaylor/hyper-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A clean theme for Hyper.",
   "main": "index.js",
   "repository": "@erictaylor/hyper-theme",
